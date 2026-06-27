@@ -62,6 +62,7 @@ dependencies {
     implementation("androidx.camera:camera-lifecycle:${camerax_version}")
     implementation("androidx.camera:camera-view:${camerax_version}")
 
+
 // Accompanist for handling permissions in Compose easily
     implementation("com.google.accompanist:accompanist-permissions:0.35.0-alpha")
 }
